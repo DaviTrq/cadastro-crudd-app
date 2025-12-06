@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+cadastros.json
+*.user
+*.suo
+*.db
+*.log
+*.sqlite
+*.DS_Store
